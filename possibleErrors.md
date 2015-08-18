@@ -402,7 +402,7 @@ var hello = 'world'
 [1, 2, 3].forEach(addNumber);
 </pre>
 </td>
-<td>Allowed</td>
+<td>Off</td>
 <td>[Link](http://eslint.org/docs/rules/no-unexpected-multiline)</td>
 </tr>
 </tbody>

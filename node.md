@@ -12,7 +12,7 @@
 <tbody>
 <tr>
 <td>callback-return</td>
-<td>Enfore `return` after a callback</td>
+<td>Enforce `return` after a callback</td>
 <td>
 <pre>
 // Good
@@ -29,7 +29,7 @@ function foo() {
 </tr>
 <tr>
 <td>handle-callback-err</td>
-<td>Enfore error handling in callbacks</td>
+<td>Enforce error handling in callbacks</td>
 <td>
 <pre>
 function loadData (err, data) {
